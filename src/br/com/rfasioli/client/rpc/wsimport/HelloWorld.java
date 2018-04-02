@@ -1,5 +1,5 @@
 
-package br.com.rfasioli.client.wsimport;
+package br.com.rfasioli.client.rpc.wsimport;
 
 import javax.jws.WebMethod;
 import javax.jws.WebParam;

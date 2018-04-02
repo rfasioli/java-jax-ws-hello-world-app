@@ -1,11 +1,11 @@
-package br.com.rfasioli.client;
+package br.com.rfasioli.client.rpc;
 
 import java.net.URL;
 
 import javax.xml.namespace.QName;
 import javax.xml.ws.Service;
 
-import br.com.rfasioli.ws.HelloWorld;
+import br.com.rfasioli.ws.rpc.HelloWorld;
 
 public class HelloWorldClient{
 	

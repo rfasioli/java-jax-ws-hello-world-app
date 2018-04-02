@@ -1,8 +1,8 @@
-package br.com.rfasioli.endpoint;
+package br.com.rfasioli.endpoint.rpc;
 
 import javax.xml.ws.Endpoint;
 
-import br.com.rfasioli.ws.HelloWorldImpl;
+import br.com.rfasioli.ws.rpc.HelloWorldImpl;
 
 //Endpoint publisher
 public class HelloWorldPublisher{

@@ -1,4 +1,4 @@
-package br.com.rfasioli.ws;
+package br.com.rfasioli.ws.rpc;
 
 import javax.jws.WebMethod;
 import javax.jws.WebService;

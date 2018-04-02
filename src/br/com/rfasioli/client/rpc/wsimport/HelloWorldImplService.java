@@ -1,5 +1,5 @@
 
-package br.com.rfasioli.client.wsimport;
+package br.com.rfasioli.client.rpc.wsimport;
 
 import java.net.MalformedURLException;
 import java.net.URL;

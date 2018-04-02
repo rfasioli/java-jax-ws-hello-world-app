@@ -1,9 +1,9 @@
-package br.com.rfasioli.ws;
+package br.com.rfasioli.ws.rpc;
 
 import javax.jws.WebService;
  
 //Service Implementation
-@WebService(endpointInterface = "br.com.rfasioli.ws.HelloWorld")
+@WebService(endpointInterface = "br.com.rfasioli.ws.rpc.HelloWorld")
 public class HelloWorldImpl implements HelloWorld{
  
 	@Override

@@ -1,4 +1,4 @@
-package br.com.rfasioli.client.wsimport;
+package br.com.rfasioli.client.rpc.wsimport;
 
 public class HelloWorldClient{
 	
